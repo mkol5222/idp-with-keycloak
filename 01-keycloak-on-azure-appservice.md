@@ -26,6 +26,7 @@ It can be used to authenticate and authorize many Check Point products including
 
 ## Quick Start
 
+Use followinng or continue in step by step section manually:
 * login to [Azure Shell](https://shell.azure.com)
 * review deployment script `curl -s https://bit.ly/deploy-keycloack-azure-webapp-sh`
 * deploy on using `curl -s https://bit.ly/deploy-keycloack-azure-webapp-sh | bash`
