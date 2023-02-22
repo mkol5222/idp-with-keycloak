@@ -65,7 +65,7 @@
     * Friendly Name: **userId**
     * SAML Attribute Name: **userId**
     * SAML Attribute NameFormat: **Basic**
-    ![](2023-02-22-13-42-36.png)
+    ![](2023-02-22-13-42-36b.png)
 
 * Under this client / Mappers - Create new mapper for Groups
     * Name: **groups**
