@@ -24,7 +24,7 @@ It can be used to authenticate and authorize many Check Point products including
 * cost-effective for lab/tests
 
 
-## Quick Start
+## Option 1: Quick Start
 
 Use followinng or continue in step by step section manually:
 * login to [Azure Shell](https://shell.azure.com)
@@ -32,12 +32,12 @@ Use followinng or continue in step by step section manually:
 * deploy on using `curl -s -L https://bit.ly/deploy-keycloack-azure-webapp-sh | bash`
 
 
-## Click-ops approach
+## Option 2: Click-ops approach
 
 This automation is inspired by video by CoreWreck's video [Running a dev keycloak instance in Azure with HTTPS in few steps](https://www.youtube.com/watch?v=neHFkd8c-gc) 
 
 
-## In more detail - step by step
+## Option 3: In more detail - step by step
 
 ### Deployment environment
 
